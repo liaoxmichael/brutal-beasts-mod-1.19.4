@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "testmod",
+  "id": "brutalbeasts",
   "version": "${version}",
 
-  "name": "Test Mod",
+  "name": "Brutal Beasts",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Michael"
+    "clickycode",
+    "xfebruary"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,19 +15,19 @@
   },
 
   "license": "MIT License",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/brutalbeasts/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.michael.testmod.TestMod"
+      "net.clickycode.brutalbeasts.BrutalBeasts"
     ],
     "client": [
-      "net.michael.testmod.TestModClient"
+      "net.clickycode.brutalbeasts.BrutalBeastsClient"
     ]
   },
   "mixins": [
-    "testmod.mixins.json"
+    "brutalbeasts.mixins.json"
   ],
 
   "depends": {
