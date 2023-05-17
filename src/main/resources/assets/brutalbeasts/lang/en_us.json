@@ -1,4 +1,6 @@
 {
   "item.brutalbeasts.troll_hide": "Troll Hide",
-  "item.brutalbeasts.troll_horn": "Troll Horn"
+  "item.brutalbeasts.troll_horn": "Troll Horn",
+  "item.brutalbeasts.troll_hide_cloak": "Troll Hide Cloak",
+  "itemgroup.brutalbeasts": "Brutal Beasts"
 }

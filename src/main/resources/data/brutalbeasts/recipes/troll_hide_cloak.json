@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "H H",
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "brutalbeasts:troll_hide"
+    },
+    "H": {
+      "item": "brutalbeasts:troll_horn"
+    }
+  },
+  "result": {
+    "item": "brutalbeasts:troll_hide_cloak"
+  }
+}
