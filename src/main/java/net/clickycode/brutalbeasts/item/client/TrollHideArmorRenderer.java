@@ -18,6 +18,7 @@ import software.bernie.geckolib.renderer.layer.ItemArmorGeoLayer;
 public class TrollHideArmorRenderer extends GeoArmorRenderer<TrollHideArmorItem> {
      public TrollHideArmorRenderer() {
          super(new TrollHideArmorModel());
+         // trying to add a RenderLayer, but not working
 //         addRenderLayer(new ItemArmorGeoLayer<>((GeoRenderer)this) {
 //            public static final Identifier TEXTURE = new Identifier(BrutalBeasts.MOD_ID, "textures/item/armor/troll_hide_armor_overlay.png");
 //
