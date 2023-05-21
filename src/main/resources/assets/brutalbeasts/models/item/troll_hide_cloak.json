@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+    "textures": {
+        "layer0": "brutalbeasts:item/troll_hide_cloak",
+        "layer1": "brutalbeasts:item/troll_hide_cloak_overlay"
+    }
+}
